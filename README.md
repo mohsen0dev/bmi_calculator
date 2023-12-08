@@ -2,15 +2,7 @@
 
 A new Flutter project.
 
-## Getting Started
+## اپلیکیشن محاسبه توده بدنی BMI
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![bmi1](https://github.com/mohsen0dev/bitcoin_ticker/assets/153233719/a3f585b3-814f-4a0b-b84c-0e6bfbf9cec5)
+![bmi2](https://github.com/mohsen0dev/bitcoin_ticker/assets/153233719/87481375-21b4-4681-9fd7-8afb694a6578)
